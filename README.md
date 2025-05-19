@@ -1,1 +1,1 @@
-# Blog-App
+A mini Django Models project 
